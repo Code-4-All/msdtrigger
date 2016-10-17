@@ -2,10 +2,10 @@ msdtrigger - Lizenz und Dokumentation
 -----------------------------------------------------------------------------
 
 Voraussetzungen:
-1. Laufzeitumgebung .NET Framework 4 Client Profile, getestet mit Version 4.0.30319
-2. Fertig eingerichtetes MySQLDumper-Paket auf einem Server
-3. Konfigurationsdatei "msdtrigger.xml" im Programmverzeichnis (Beispiel wird mitgeliefert)
-4. Die Ausführung des Programmes muss zwingend im jeweiligen Arbeitsverzeichnis erfolgen. (Aufgabenplanung oder AutohotKey Script, etc.)
+- 1. Laufzeitumgebung .NET Framework 4 Client Profile, getestet mit Version 4.0.30319
+- 2. Fertig eingerichtetes MySQLDumper-Paket auf einem Server
+- 3. Konfigurationsdatei "msdtrigger.xml" im Programmverzeichnis (Beispiel wird mitgeliefert)
+- 4. Die Ausführung des Programmes muss zwingend im jeweiligen Arbeitsverzeichnis erfolgen. (Aufgabenplanung oder AutohotKey Script, etc.)
 
 Programmfeatures:
 - Aufruf von MySQLDumper Backup-URL der Form http(s)://example.com/dump.php?config=mysqldumper
